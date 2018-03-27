@@ -1,0 +1,202 @@
+html{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-color: #808080;
+	font-family: 'New York';
+	padding: 10px;
+	margin: 0;
+	
+}
+.navigation{
+    background-color: #efefef;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+.nav{
+	background-color: #fff;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;;
+}
+
+ ul.nav{
+                margin-left: 0px;
+                padding-left: 0px;
+                text-align: center;
+                list-style: none;
+            }
+            .nav li { 
+                display: inline; 
+            }
+            ul.nav a {
+                display: inline-block;
+
+                width: 70px;
+                padding:15px;
+                background-color: #efefef;
+                border: 1px solid #808080;
+                border-radius: 10%;
+                text-decoration: none;
+                color: #333;
+                text-align: center;
+            }
+            ul.nav a:hover{
+                background-color: #333;
+                color: #f4f4f4;
+            }
+}
+a:link{
+	color: #000000; 
+}
+a:visited{
+	color:  #0066cc;
+}
+a:hover{
+	color: #e6e600;
+}
+a{
+	text-decoration: none;
+}
+.mainborder{
+	background-color: #fff;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+.aboutme{
+	background-color: #efefef;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+.topic {
+	font-size: 25px;
+	color: #00000;
+	text-align: center;
+	
+}
+    
+.myface{
+	display: block;
+	margin:  auto;
+	margin-bottom: 30px;
+	width: 300px;
+	height: 300px;
+
+}
+
+.littlehistory {
+	font-size: 17px;
+	text-align: center;
+	
+}
+.quote {
+	font-size: 15px;
+	text-align: right;
+	margin-top: 50px;
+	margin: 50px;
+}
+.myhobbie{
+	background-color: #efefef;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+.hobbie{
+	font-size: 25px;
+	color: #00000;
+	text-align: center;
+	padding: 10px;
+}
+.handmade{
+	font-size: 18px;
+	color: #00000;
+	text-align: center;
+
+}
+.list{
+	margin-left: 50px;
+}
+
+li{
+	margin-bottom: 15px;
+	font-weight: bold;
+}
+.someworks{
+	background-color: #efefef;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+.works{
+	font-size: 25px;
+	color: #00000;
+	text-align: center;
+}
+.photo1{
+	width: 285px;
+	height: 285px;
+	padding: 6px;
+	margin-right:7px;
+	text-align: center;
+	border:4px dashed #808080;
+	border-radius: 50%;
+}
+.photo2{
+	width: 285px;
+	height: 285px;
+	padding: 6px;
+	margin-right:16px;
+	text-align: center;
+	border:4px dashed #808080;
+	border-radius: 50%;
+}
+.photo3{
+	width: 285px;
+	height: 285px;
+	padding: 6px;
+	margin-right:7px;
+	text-align: center;
+	border:4px dashed #808080;
+	border-radius: 50%;
+}
+.photo4{
+	width: 285px;
+	height: 285px;
+	padding: 6px;
+	margin-right:7px;
+	text-align: center;
+	border:4px dashed #808080;
+	border-radius: 50%;
+}
+
+.footer{
+	background-color: #efefef;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+
+}
+.foot{
+	font-size: 15px;
+	color: #00000;
+	text-align: center;
+
+}
+.followme{
+	background-color: #efefef;
+	padding: 15px;
+	margin-bottom: 10px;
+	border-radius: 10px;
+}
+.follow{
+	font-size: 25px;
+	color: #00000;
+	text-align: center;
+}
+.well{
+  padding: 10px;
+}
